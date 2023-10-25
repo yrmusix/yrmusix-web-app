@@ -28,5 +28,3 @@ export default function Error({
     </div>
   );
 }
-
-export const runtime = "edge";

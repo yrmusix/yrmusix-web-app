@@ -17,5 +17,3 @@ export function Providers({ children, themeProps }: ProvidersProps) {
     </NextUIProvider>
   );
 }
-
-export const runtime = "edge";
